@@ -14,7 +14,7 @@
 
 ### Labels:
 -  [Beginner Friendly](#beginners) 
--  [Developer Friendly](#intermediate)
+-  [Intermediate Friendly](#intermediate)
 
 
 #### Beginners: :bowtie: 
