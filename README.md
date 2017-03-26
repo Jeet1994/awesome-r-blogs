@@ -12,7 +12,7 @@
 ----------
 
 
-###Labels:
+### Labels:
 -  :bowtie: = [Beginner Friendly](#beginners) 
 -  :neckbeard: = [Developer Friendly](#intermediate)
 
