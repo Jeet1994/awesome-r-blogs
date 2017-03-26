@@ -7,6 +7,7 @@
 
 ----------
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ----------
 
@@ -19,16 +20,16 @@
 
 ### Blogs:
 
- 1. [Peter's Stats Stuff](http://ellisp.github.io/blog/) :bowtie: 
- 2. [Why?](https://csgillespie.wordpress.com/) :neckbeard:
- 3. [Dean Attali's blog](http://deanattali.com/) :flushed:
- 4. [Shifting Sands](http://petewerner.blogspot.com/) :bowtie:
- 5. [R by Examples](http://rbyexamples.blogspot.com/) :bowtie:
- 6. [Ari Lamstein - R, Maps & OpenData](http://www.arilamstein.com/blog/) :neckbeard:
- 7. [R You Ready?](https://ryouready.wordpress.com/) :bowtie:
- 8. [R for public health](http://rforpublichealth.blogspot.com/) :neckbeard:
- 9. [One R tip a day](http://onertipaday.blogspot.com/) :flushed: /
- 10.[CEREBRAL MASTICATION](http://www.cerebralmastication.com/tag/r/) :neutral_face:
- 11. [Learning R](https://learnr.wordpress.com/) :bowtie:
- 12. [Mark Heckmann - Blog](https://markheckmann.wordpress.com/category/r-r-code/) :neckbeard:
+ - [Peter's Stats Stuff](http://ellisp.github.io/blog/) :bowtie: 
+ - [Why?](https://csgillespie.wordpress.com/) :neckbeard:
+ - [Dean Attali's blog](http://deanattali.com/) :flushed:
+ - [Shifting Sands](http://petewerner.blogspot.com/) :bowtie:
+ - [R by Examples](http://rbyexamples.blogspot.com/) :bowtie:
+ - [Ari Lamstein - R, Maps & OpenData](http://www.arilamstein.com/blog/) :neckbeard:
+ - [R You Ready?](https://ryouready.wordpress.com/) :bowtie:
+ - [R for public health](http://rforpublichealth.blogspot.com/) :neckbeard:
+ - [One R tip a day](http://onertipaday.blogspot.com/) :flushed: /
+ - [CEREBRAL MASTICATION](http://www.cerebralmastication.com/tag/r/) :neutral_face:
+ - [Learning R](https://learnr.wordpress.com/) :bowtie:
+ - [Mark Heckmann - Blog](https://markheckmann.wordpress.com/category/r-r-code/) :neckbeard:
 
