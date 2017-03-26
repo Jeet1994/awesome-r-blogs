@@ -12,14 +12,15 @@
 
 
 ### Labels:
--  :bowtie: = Beginner Friendly
--  :neckbeard: = Intermediate Friendly
+-  :bowtie: = Beginner.
+-  :neckbeard: = Intermediate.
+-  :flushed: = Advanced.
 
 ### Blogs:
 
  1. [Peter's Stats Stuff](http://ellisp.github.io/blog/) :bowtie: 
  2. [Why?](https://csgillespie.wordpress.com/) :neckbeard:
- 3. c
+ 3. [Dean Attali's blog](http://deanattali.com/)
  4. d
 
 
