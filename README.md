@@ -21,6 +21,6 @@
  1. [Peter's Stats Stuff](http://ellisp.github.io/blog/) :bowtie: 
  2. [Why?](https://csgillespie.wordpress.com/) :neckbeard:
  3. [Dean Attali's blog](http://deanattali.com/) :flushed:
- 4. d
+ 4. [Shifting Sands](http://petewerner.blogspot.sg/) :bowtie:
 
 
