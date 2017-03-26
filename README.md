@@ -13,18 +13,18 @@
 
 
 ### Labels:
--  :bowtie: = [Beginner Friendly](#beginners) 
--  :neckbeard: = [Developer Friendly](#intermediate)
+-  [Beginner Friendly](#beginners) 
+-  [Developer Friendly](#intermediate)
 
 
-#### Beginners:
+#### Beginners: :bowtie: 
 
  1. [Peter's Stats Stuff](http://ellisp.github.io/blog/)
  2. b
  3. c
  4. d
 
-#### Intermediate:
+#### Intermediate:  :neckbeard:
 
  1. a
  2. b
