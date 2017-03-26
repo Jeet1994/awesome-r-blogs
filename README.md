@@ -25,4 +25,6 @@
  5. [R by Examples](http://rbyexamples.blogspot.com/) :bowtie:
  6. [Ari Lamstein - R, Maps & OpenData](http://www.arilamstein.com/blog/) :neckbeard:
  7. [R You Ready?](https://ryouready.wordpress.com/) :bowtie:
+ 8. [R for public health](http://rforpublichealth.blogspot.com/) :neckbeard:
+ 9. [One R tip a day](http://onertipaday.blogspot.com/) :flushed:
 
