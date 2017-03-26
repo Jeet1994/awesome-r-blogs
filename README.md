@@ -15,7 +15,7 @@
 -  :bowtie: = Beginner Friendly
 -  :neckbeard: = Intermediate Friendly
 
-
+### Blogs:
 
  1. [Peter's Stats Stuff](http://ellisp.github.io/blog/) :bowtie: 
  2. [Why?](https://csgillespie.wordpress.com/) :neckbeard:
