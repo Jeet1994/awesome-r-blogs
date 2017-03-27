@@ -36,4 +36,5 @@
  - [Data Science, Data Mining and Predictive Analytics](http://blog.alpha-analysis.com/) :flushed:
  - [Eran Raviv's blog](http://eranraviv.com) :neckbeard:
  - [FOSS Trading](http://blog.fosstrading.com/) :bowtie: :neckbeard:
+ - [R SIG Finance Mailing List](https://stat.ethz.ch/pipermail/r-sig-finance/) :neckbeard: :flushed: :flushed:
 
