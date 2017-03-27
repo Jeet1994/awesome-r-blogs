@@ -43,3 +43,6 @@
  - [Timely Portfolio](http://timelyportfolio.blogspot.com/search/label/r) :flushed: :bowtie:
  - [QuantStrat TradeR](https://quantstrattrader.wordpress.com/) :bowtie: :neckbeard:
  - [Quantum financier](https://quantumfinancier.wordpress.com/) :flushed:
+ - [R in Bremen](https://statistikbremen.wordpress.com/) :bowtie: :bowtie:
+ - [The World of R Craft](http://worldofrcraft.blogspot.com/) :flushed: :bowtie:
+ - [The power of R](http://using-r-project.blogspot.com/) :flushed: :neckbeard:
