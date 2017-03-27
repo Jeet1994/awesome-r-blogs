@@ -34,6 +34,6 @@
  - [Mark Heckmann - Blog](https://markheckmann.wordpress.com/category/r-r-code/) :neckbeard:
  - [The R trader - using R and related tools for quantitative finance](http://www.thertrader.com/) :neckbeard: :bowtie:
  - [Data Science, Data Mining and Predictive Analytics](http://blog.alpha-analysis.com/) :flushed:
- - [Erar Raviv's blog](http://eranraviv.com) :neckbeard:
+ - [Eran Raviv's blog](http://eranraviv.com) :neckbeard:
  - [FOSS Trading](http://blog.fosstrading.com/) :bowtie: :neckbeard:
 
