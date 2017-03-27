@@ -20,7 +20,7 @@
 
 ### Blogs:
 
- - [Peter's Stats Stuff](http://ellisp.github.io/blog/) :bowtie: 
+ - [Peter's Stats Stuff](http://ellisp.github.io/blog/) :bowtie: :bowtie:
  - [Why?](https://csgillespie.wordpress.com/) :neckbeard:
  - [Dean Attali's blog](http://deanattali.com/) :flushed:
  - [Shifting Sands](http://petewerner.blogspot.com/) :bowtie:
@@ -37,4 +37,6 @@
  - [Eran Raviv's blog](http://eranraviv.com) :neckbeard:
  - [FOSS Trading](http://blog.fosstrading.com/) :bowtie: :neckbeard:
  - [R SIG Finance Mailing List](https://stat.ethz.ch/pipermail/r-sig-finance/) :neckbeard: :flushed: :flushed:
-
+ - [Timely Portfolio](http://timelyportfolio.blogspot.com/search/label/r) :flushed: :bowtie:
+ - [QuantStrat TradeR](https://quantstrattrader.wordpress.com/) :bowtie: :neckbeard:
+ - [Quantum financier](https://quantumfinancier.wordpress.com/) :flushed:
