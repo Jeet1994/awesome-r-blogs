@@ -46,3 +46,4 @@
  - [R in Bremen](https://statistikbremen.wordpress.com/) :bowtie: :bowtie:
  - [The World of R Craft](http://worldofrcraft.blogspot.com/) :flushed: :bowtie:
  - [The power of R](http://using-r-project.blogspot.com/) :flushed: :neckbeard:
+ - [Giga Thoughts](https://gigadom.wordpress.com/) :neckbeard: :neutral_face:
