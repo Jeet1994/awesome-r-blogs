@@ -1,14 +1,16 @@
 ## Awesome List of R blogs on the web. 
 
 <h1 align="center">
-	<img width="400" src="https://howtolearn.me/wp-content/uploads/2014/08/r-programming-logo.png" alt="Awesome">
+	<img width="300" src="https://howtolearn.me/wp-content/uploads/2014/08/r-programming-logo.png" alt="R r-programming-logo">
 </h1>
 
 
 ----------
-<center>
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-</center>
+
+<h1 align="center">
+	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+</h1>
+
 
 ----------
 
