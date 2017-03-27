@@ -28,7 +28,7 @@
  - [Ari Lamstein - R, Maps & OpenData](http://www.arilamstein.com/blog/) :neckbeard: :flushed:
  - [R You Ready?](https://ryouready.wordpress.com/) :bowtie:
  - [R for public health](http://rforpublichealth.blogspot.com/) :neckbeard:
- - [One R tip a day](http://onertipaday.blogspot.com/) :flushed: &nbsp
+ - [One R tip a day](http://onertipaday.blogspot.com/) :flushed:
  - [CEREBRAL MASTICATION](http://www.cerebralmastication.com/tag/r/) :neutral_face:
  - [Learning R](https://learnr.wordpress.com/) :bowtie:
  - [Mark Heckmann - Blog](https://markheckmann.wordpress.com/category/r-r-code/) :neckbeard:
