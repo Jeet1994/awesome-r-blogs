@@ -47,3 +47,4 @@
  - [The World of R Craft](http://worldofrcraft.blogspot.com/) :flushed: :bowtie:
  - [The power of R](http://using-r-project.blogspot.com/) :flushed: :neckbeard:
  - [Giga Thoughts](https://gigadom.wordpress.com/) :neckbeard: :neutral_face:
+ - [Jixta - Observation desk](https://jixta.wordpress.com/tag/r-programming/) :flushed: 
