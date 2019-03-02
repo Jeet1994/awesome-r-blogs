@@ -50,3 +50,4 @@
  - [Jixta - Observation desk](https://jixta.wordpress.com/tag/r-programming/) :flushed: 
  - [On the lambda](http://www.onthelambda.com/tag/r/) :neckbeard:
  - [RStudio Tensorflow](https://tensorflow.rstudio.com/) :flushed:
+ - [R : RSpatial : Geo Spatial Analysis](https://www.rspatial.org/) :neutral_face:
