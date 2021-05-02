@@ -51,3 +51,6 @@
  - [On the lambda](http://www.onthelambda.com/tag/r/) :neckbeard:
  - [RStudio Tensorflow](https://tensorflow.rstudio.com/) :flushed:
  - [R : RSpatial : Geo Spatial Analysis](https://www.rspatial.org/) :neutral_face:
+ - [Analyze the live worldwide data from the novel CoViD19](https://cran.r-project.org/web/packages/covid19.analytics/vignettes/covid19.analytics.html):neckbeard:
+ - [Top 100 R resources on Novel COVID-19 Coronavirus](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f):neckbeard:
+ - [How To Get The Power Of Test In Hypothesis Testing With Binomial Distribution](https://predictivehacks.com/how-to-get-the-power-of-test-in-hypothesis-testing-with-binomial-distribution/):flushed:
